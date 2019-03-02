@@ -9,3 +9,5 @@ coursera-nanjing-20190301-ex4：数据清洗练习（简单，剔除非字母，
 coursera-nanjing-20190301-ex5：字符串练习
 
 coursera-nanjing-20190301-ex6：随机函数+文件操作+统计众数
+
+coursera-nanjing-20190302-ex7：统计最长单词
