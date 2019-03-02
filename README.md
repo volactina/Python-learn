@@ -10,4 +10,6 @@ coursera-nanjing-20190301-ex5：字符串练习
 
 coursera-nanjing-20190301-ex6：随机函数+文件操作+统计众数
 
-coursera-nanjing-20190302-ex7：统计最长单词
+coursera-nanjing-20190302-ex7：文件操作+统计最长单词
+
+coursera-nanjing-20190302-ex7：文件操作（插入文本内容）
