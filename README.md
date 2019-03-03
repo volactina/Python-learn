@@ -16,4 +16,6 @@ coursera-nanjing-20190302-ex8：文件操作（插入文本内容）
 
 coursera-nanjing-20190303-ex9：综合练习（用户账号管理功能）
 
+coursera-nanjing-20190303-ex10：统计字符串单词个数
+
 
