@@ -12,4 +12,8 @@ coursera-nanjing-20190301-ex6：随机函数+文件操作+统计众数
 
 coursera-nanjing-20190302-ex7：文件操作+统计最长单词
 
-coursera-nanjing-20190302-ex7：文件操作（插入文本内容）
+coursera-nanjing-20190302-ex8：文件操作（插入文本内容）
+
+coursera-nanjing-20190303-ex9：综合练习（用户账号管理功能）
+
+
